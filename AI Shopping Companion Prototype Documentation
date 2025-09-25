@@ -1,0 +1,41 @@
+📐 Overview
+
+This is the interactive, multi-modal AI Shopping Companion prototype built as part of the VRO project. It demonstrates how a user can search men’s fashion items via voice, text, or image, and receive curated outfit suggestions through a conversational interface.
+Check it out here:
+https://www.figma.com/make/n59l5OwewN4u1AZ51TsECD/VRO---AI-Shopping-Companion?node-id=0-4&t=YCezfI1cgezP4A7k-1
+
+
+🎯 Purpose & Scope
+
+Showcase how users can express style queries in multiple modalities.
+Simulate an AI “assistant” that guides fashion discovery with minimal friction.
+Test interaction flows, user experience, and interface transitions.
+Serve as the foundation for converting this into a functional product later on.
+
+
+🌟 Key Interaction Modalities
+
+| Input Type | How It Works in Prototype | Example Use Case                                       |
+| ---------- | ------------------------- | ------------------------------------------------------ |
+| **Voice**  | User speaks a description | “Show me a navy blue blazer for summer evening.”       |
+| **Text**   | User types a query        | “casual white sneakers under ₹5,000”                   |
+| **Image**  | Upload or snap a photo    | A user uploads a shoe photo and wants matching clothes |
+
+
+🛠️ Tools & Technologies
+
+Figma — Core prototyping, UI flows, interactive transitions
+
+
+🎯 Benefits & Next Steps
+
+Benefits
+Demonstrates viability of natural, multimodal fashion search.
+Helps test usability before building backend.
+Allows stakeholders to visualize user flows and experience.
+
+Next Steps
+Translate prototype logic into working APIs & models
+Integrate real product catalogs, databases, and search algorithms
+Improve UX based on testing and user feedback
+Extend to full-stack deployment (web or mobile)
