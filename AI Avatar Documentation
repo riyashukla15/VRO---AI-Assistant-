@@ -1,0 +1,37 @@
+🧠 Overview
+
+The AI Avatar component is a core interactive element of our VRO system. This avatar serves as the visual and conversational face of the the shopping assistant: a digital agent who interacts with users in a natural, human-like manner.
+You can view/edit the design and visuals here:
+https://www.canva.com/design/DAGz1MfaATA/pVfpLezX2lIBGJQngZKJwQ/edit?ui=e30 
+
+
+
+🎯 Purpose & Role
+Acts as the user’s point of engagement: greeting, asking questions, receiving commands.
+Creates a more immersive and human-centered shopping experience.
+When combined with voice synthesis and gesture design, it mimics human interaction to guide fashion discovery.
+
+
+
+🛠️ Tools & Technologies
+| Component                | Tool / Platform                              | Role                                                   |
+| ------------------------ | -------------------------------------------- | ------------------------------------------------------ |
+| Avatar imagery & styling | **Leonardo AI**                              | Generate expressive avatar visuals and art style       |
+| Conversation design      | Custom scripts / prompts                     | Map out dialog flows, user intents, fallback responses |
+| Voice synthesis          | **Eleven Labs**                              | Converts text responses into natural-sounding speech   |
+| Animation / Gestures     | (Within design tool or via animation plugin) | Create avatar gestures (e.g. nods, hand motions)       |
+| Visual layout / design   | **Canva**                                    | Final mockups, image composites, presentation visuals  |
+
+
+✅ Benefits & Considerations
+
+Benefits
+Boosts user engagement via a virtual “face” rather than bland UI.
+Makes the experience more conversational and natural.
+No-code / low-code friendly — avatar module can be adjusted without full-stack redeployment.
+
+Considerations
+Speech latency & synchronization must be well-managed.
+Expressiveness should avoid uncanny valley.
+Need fallback text-only paths for users/devices without voice support.
+
